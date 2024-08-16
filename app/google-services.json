@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579387295419",
+    "project_id": "login-register-3ef55",
+    "storage_bucket": "login-register-3ef55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579387295419:android:afae9545c28341f06d8b9e",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmp-mzyL_WFZn_oe2wa_4dx0FhvLWyAYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

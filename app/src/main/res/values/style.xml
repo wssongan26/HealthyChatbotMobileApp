@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DarkTheme" parent="Theme.AppCompat">
+        <item name="android:windowBackground">@android:color/black</item>
+        <!-- Add more attributes for dark mode if needed -->
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- Add more attributes for light mode if needed -->
+    </style>
+</resources>
